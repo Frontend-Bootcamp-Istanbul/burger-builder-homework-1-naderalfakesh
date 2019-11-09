@@ -1,3 +1,3 @@
-import Ingredient from '/IngredientList'
+import IngredientList from './IngredientList'
 
-export default Ingredient
+export default IngredientList

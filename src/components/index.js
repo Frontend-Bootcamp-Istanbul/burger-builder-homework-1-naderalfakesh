@@ -5,4 +5,4 @@ import Hamburger from "./Hamburger";
 import TotalPrice from "./TotalPrice";
 import IngredientList from "./IngredientList";
 
-export {Hamburger, TotalPrice , IngredientLists};
+export {Hamburger, TotalPrice , IngredientList};
